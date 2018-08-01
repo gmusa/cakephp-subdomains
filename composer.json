@@ -1,13 +1,13 @@
 {
-    "name": "multidimensional/cakephp-subdomains",
+    "name": "gmusa/cakephp-subdomains",
     "description": "Easily add sub domains to your CakePHP application using route prefixes.",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "cakephp3", "subdomains"],
-    "homepage": "https://github.com/multidimension-al/cakephp-subdomains",
+    "homepage": "https://github.com/gmusa/cakephp-subdomains",
     "license": "MIT",
     "authors": [{
-        "name": "multidimension.al",
-        "homepage": "https://multidimension.al",
+        "name": "gmusa",
+        "homepage": "https://gmusa.gmusa",
         "role": "Developer"
     }],
     "require": {
