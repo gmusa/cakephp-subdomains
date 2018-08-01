@@ -48,6 +48,10 @@ class SubdomainMiddleware
                 $params['prefix'] = $prefix;
             }
 
+            if (!empty($params['plugin'])) {
+                unset($params['prefix']);
+            }
+
             $request = $request->withAttribute('params', $params);
         }
 
